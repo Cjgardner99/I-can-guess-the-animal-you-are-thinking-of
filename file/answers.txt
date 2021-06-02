@@ -1,0 +1,264 @@
+Is it big?, 
+does it bark?, L
+is it Green, LL
+does it howl, LLL
+Is it a cat??, LLLL
+is it humanlike?, LLLR
+is it a wolf, LLLRL
+is it a wearwolf, LLLRR
+is it a lizard, LLR
+is it a savage, LR
+is it a dog, LRL
+is it a savage dog, LRR
+Does it like honey?, R
+does it have stripes, RL
+is it a lion, RLL
+is it a tiger, RLR
+does it sting, RR
+is it vicious, RRL
+is it a bear, RRLL
+is it a Grizzley, RRLR
+Does its Sting hurt really bad?, RRR
+is it a bee, RRRL
+is it a viscious bee breed, RRRR
+is it a Hornet, RRRRL
+is it a Wasp, RRRRR
+
+Is it big?, 
+does it bark?, L
+is it Green, LL
+does it howl, LLL
+Is it a cat??, LLLL
+is it humanlike?, LLLR
+is it a wolf, LLLRL
+is it a wearwolf, LLLRR
+is it a lizard, LLR
+is it a savage, LR
+is it a dog, LRL
+is it a savage dog, LRR
+Does it like honey?, R
+does it have stripes, RL
+does it have a trunk, RLL
+is it a lion, RLLL
+is it a elephant, RLLR
+is it a tiger, RLR
+does it sting, RR
+is it vicious, RRL
+is it a bear, RRLL
+is it a Grizzley, RRLR
+Does its Sting hurt really bad?, RRR
+is it a bee, RRRL
+is it a viscious bee breed, RRRR
+is it a Hornet, RRRRL
+is it a Wasp, RRRRR
+
+Is it big?, 
+does it bark?, L
+is it Green, LL
+does it howl, LLL
+Is it a cat??, LLLL
+is it humanlike?, LLLR
+is it a wolf, LLLRL
+is it a wearwolf, LLLRR
+is it a lizard, LLR
+is it a savage, LR
+is it a dog, LRL
+is it a savage dog, LRR
+Does it like honey?, R
+does it have stripes, RL
+does it have a trunk, RLL
+is it a lion, RLLL
+is it a elephant, RLLR
+is it a tiger, RLR
+does it sting, RR
+is it vicious, RRL
+is it a bear, RRLL
+is it a Grizzley, RRLR
+Does its Sting hurt really bad?, RRR
+is it a bee, RRRL
+is it a viscious bee breed, RRRR
+is it a Hornet, RRRRL
+is it a Wasp, RRRRR
+
+Is it big?, 
+does it bark?, L
+is it Green, LL
+does it howl, LLL
+Is it a cat??, LLLL
+is it humanlike?, LLLR
+is it a wolf, LLLRL
+is it a wearwolf, LLLRR
+is it a lizard, LLR
+is it a savage, LR
+is it a dog, LRL
+is it a savage dog, LRR
+Does it like honey?, R
+does it have stripes, RL
+does it have a trunk, RLL
+is it a lion, RLLL
+is it a elephant, RLLR
+is it a tiger, RLR
+does it sting, RR
+is it vicious, RRL
+is it a bear, RRLL
+is it a Grizzley, RRLR
+Does its Sting hurt really bad?, RRR
+is it a bee, RRRL
+is it a viscious bee breed, RRRR
+is it a Hornet, RRRRL
+is it a Wasp, RRRRR
+
+Is it big?, 
+does it bark?, L
+is it Green, LL
+does it howl, LLL
+Is it a cat??, LLLL
+is it humanlike?, LLLR
+is it a wolf, LLLRL
+is it a wearwolf, LLLRR
+is it a lizard, LLR
+is it a savage, LR
+is it a dog, LRL
+is it a savage dog, LRR
+Does it like honey?, R
+does it have stripes, RL
+does it have a trunk, RLL
+does it have a long neck, RLLL
+is it a lion, RLLLL
+is it a girraph, RLLLR
+is it a elephant, RLLR
+is it a tiger, RLR
+does it sting, RR
+is it vicious, RRL
+is it a bear, RRLL
+is it a Grizzley, RRLR
+Does its Sting hurt really bad?, RRR
+is it a bee, RRRL
+is it a viscious bee breed, RRRR
+is it a Hornet, RRRRL
+is it a Wasp, RRRRR
+
+Is it big?, 
+does it bark?, L
+is it Green, LL
+does it howl, LLL
+Is it a cat??, LLLL
+is it humanlike?, LLLR
+is it a wolf, LLLRL
+is it a wearwolf, LLLRR
+is it a lizard, LLR
+is it a savage, LR
+is it a dog, LRL
+is it a savage dog, LRR
+Does it like honey?, R
+does it have stripes, RL
+does it have a trunk, RLL
+does it have a long neck, RLLL
+is it a lion, RLLLL
+is it a girraph, RLLLR
+is it a elephant, RLLR
+is it a tiger, RLR
+does it sting, RR
+is it vicious, RRL
+is it a bear, RRLL
+is it a Grizzley, RRLR
+Does its Sting hurt really bad?, RRR
+is it a bee, RRRL
+is it a viscious bee breed, RRRR
+is it a Hornet, RRRRL
+is it a Wasp, RRRRR
+
+Is it big?, 
+does it bark?, L
+is it Green, LL
+does it howl, LLL
+Is it a cat??, LLLL
+is it humanlike?, LLLR
+is it a wolf, LLLRL
+is it a wearwolf, LLLRR
+is it a lizard, LLR
+is it a savage, LR
+is it a dog, LRL
+is it a savage dog, LRR
+Does it like honey?, R
+does it have stripes, RL
+does it have a trunk, RLL
+does it have a long neck, RLLL
+is it a lion, RLLLL
+is it a girraph, RLLLR
+is it a elephant, RLLR
+is it a tiger, RLR
+does it sting, RR
+is it vicious, RRL
+is it a bear, RRLL
+is it a Grizzley, RRLR
+Does its Sting hurt really bad?, RRR
+is it a bee, RRRL
+is it a viscious bee breed, RRRR
+is it a Hornet, RRRRL
+is it a Wasp, RRRRR
+
+Is it big?, 
+does it bark?, L
+is it Green, LL
+does it howl, LLL
+is it orange, LLLL
+Is it a cat??, LLLLL
+is it a fox, LLLLR
+is it humanlike?, LLLR
+is it a wolf, LLLRL
+is it a wearwolf, LLLRR
+is it a lizard, LLR
+is it a savage, LR
+is it a dog, LRL
+is it a savage dog, LRR
+Does it like honey?, R
+does it have stripes, RL
+does it have a trunk, RLL
+does it have a long neck, RLLL
+is it a lion, RLLLL
+is it a girraph, RLLLR
+is it a elephant, RLLR
+is it a tiger, RLR
+does it sting, RR
+is it vicious, RRL
+is it a bear, RRLL
+is it a Grizzley, RRLR
+Does its Sting hurt really bad?, RRR
+is it a bee, RRRL
+is it a viscious bee breed, RRRR
+is it a Hornet, RRRRL
+is it a Wasp, RRRRR
+
+Is it big?, 
+does it bark?, L
+is it Green, LL
+does it howl, LLL
+is it orange, LLLL
+Is it a cat??, LLLLL
+is it a fox, LLLLR
+is it humanlike?, LLLR
+is it a wolf, LLLRL
+is it a wearwolf, LLLRR
+is it a lizard, LLR
+is it a savage, LR
+is it a dog, LRL
+is it a savage dog, LRR
+Does it like honey?, R
+does it have stripes, RL
+does it have a trunk, RLL
+does it have a long neck, RLLL
+is it a lion, RLLLL
+is it a girraph, RLLLR
+is it a elephant, RLLR
+is it a tiger, RLR
+does it sting, RR
+is it vicious, RRL
+is it a bear, RRLL
+is it a Grizzley, RRLR
+Does its Sting hurt really bad?, RRR
+is it a bee, RRRL
+is it a viscious bee breed, RRRR
+is it a Hornet, RRRRL
+is it a Wasp, RRRRR
+
